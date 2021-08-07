@@ -1,9 +1,0 @@
-{
-  "env": {
-    "browser": true,
-    "es6": true
-  },
-  "eslintConfig": {
-    "extends": ["react-app", "react-app/jest", "plugin:prettier/recommended"]
-  }
-}
